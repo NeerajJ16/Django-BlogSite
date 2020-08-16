@@ -2,4 +2,4 @@
 This is blogsite created using django.
 
 # Development server
-Run python manage.py runserver for a dev server. Navigate to http://localhost:127.0.0.1:8000/. The app will automatically reload if you change any of the source files.
+Run python manage.py runserver for a dev server. Navigate to http://127.0.0.1:8000/. The app will automatically reload if you change any of the source files.
