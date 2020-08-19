@@ -1,6 +1,7 @@
 # Django-Blogsite
 This is blogsite created using django.
 first run command python manage.py makemigrations
+
 after creating migrations run python python manage.py migrate
 
 # Development server
